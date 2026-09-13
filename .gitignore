@@ -1,7 +1,5 @@
-# Data files
-*.csv
-*.parquet
-*.feather
+# Data files (raw UNSW-NB15 dataset)
+UNSW_NB15*.csv
 data/
 datasets/
 unsw-nb15/
